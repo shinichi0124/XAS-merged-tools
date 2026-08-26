@@ -26,4 +26,4 @@ no server, no network. UI is bilingual (简体中文 / English, remembers your c
   data; they are order-of-magnitude engineering estimates, not specifications.
 - All data stays in the browser (localStorage only).
 
-Copyright (c) 2026 by Dr. GENG Xun. Do not copy.
+Copyright (c) 2026 by Dr. GENG Xun. Directly copy is prohibited.
