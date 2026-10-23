@@ -4,7 +4,7 @@ A self-contained, offline, single-file HTML toolkit for planning and pre-checkin
 transmission XAS / XES measurements. Double-click the `.html` file — no install,
 no server, no network. UI is bilingual (简体中文 / English, remembers your choice).
 
-**Current version: v5.14.1** — `XAS_XES_merged_precheck_tools v5.14.1.html`
+**Current version: v5.14.2** — `XAS_XES_merged_precheck_tools v5.14.2.html`
 
 ## Tabs
 
